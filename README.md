@@ -1,1 +1,1 @@
-# algorithm-solutions
+# Coding Interview Patterns from ByteByteGo
