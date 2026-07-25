@@ -1,1 +1,1 @@
-# Coding Interview Patterns from ByteByteGo
+# Coding Patterns from ByteByteGo
